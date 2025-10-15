@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675">
+  <rect width="1200" height="675" fill="#f6f3ef"/>
+  <g fill="#D4A373">
+    <rect x="100" y="120" width="280" height="200" rx="20"/>
+    <rect x="420" y="120" width="280" height="200" rx="20"/>
+    <rect x="740" y="120" width="360" height="440" rx="24"/>
+  </g>
+  <text x="120" y="380" font-family="Roboto, Arial, sans-serif" font-size="48" fill="#6B4F4F">Our Story</text>
+</svg>
+

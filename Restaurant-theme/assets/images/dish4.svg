@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#fff"/>
+  <circle cx="220" cy="200" r="70" fill="#D4A373"/>
+  <circle cx="380" cy="200" r="70" fill="#8B2E2E"/>
+  <text x="300" y="320" font-family="Roboto, Arial" font-size="28" text-anchor="middle" fill="#6B4F4F">Caprese</text>
+</svg>
+

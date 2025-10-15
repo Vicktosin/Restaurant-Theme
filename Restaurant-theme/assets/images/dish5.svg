@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f6f3ef"/>
+  <polygon points="300,60 420,320 180,320" fill="#D4A373"/>
+  <text x="300" y="360" font-family="Roboto, Arial" font-size="28" text-anchor="middle" fill="#6B4F4F">Pizza</text>
+</svg>
+

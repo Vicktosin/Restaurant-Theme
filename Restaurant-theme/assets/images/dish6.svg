@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#fff"/>
+  <rect x="160" y="180" width="280" height="120" rx="16" fill="#6B4F4F"/>
+  <circle cx="300" cy="180" r="60" fill="#D4A373"/>
+  <text x="300" y="330" font-family="Roboto, Arial" font-size="28" text-anchor="middle" fill="#6B4F4F">Tiramisu</text>
+</svg>
+

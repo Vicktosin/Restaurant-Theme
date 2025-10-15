@@ -1,0 +1,16 @@
+/* Additional component/layout styles */
+
+.menu { list-style: none; margin: 0; padding: 0; display: flex; gap: 18px; }
+.widget { background: var(--color-bg); border: 1px solid rgba(0,0,0,0.06); border-radius: 12px; padding: 14px; box-shadow: var(--shadow-soft); }
+.widget-title { margin-top: 0; }
+
+/* Simple fade-in on scroll */
+[data-animate] { opacity: 0; transform: translateY(10px); transition: opacity 400ms ease, transform 400ms ease; }
+[data-animate].visible { opacity: 1; transform: none; }
+
+/* Forms */
+label { display:block; margin-bottom:6px; font-weight: 600; }
+input, textarea, select { font: inherit; }
+input:focus, textarea:focus, select:focus { outline: 2px solid var(--color-accent); outline-offset: 2px; }
+
+

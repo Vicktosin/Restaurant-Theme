@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#fff"/>
+  <circle cx="300" cy="200" r="150" fill="#D4A373"/>
+  <text x="300" y="210" font-family="Roboto, Arial" font-size="32" text-anchor="middle" fill="#6B4F4F">Pasta</text>
+</svg>
+

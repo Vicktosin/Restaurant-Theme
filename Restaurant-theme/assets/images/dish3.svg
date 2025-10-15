@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#f6f3ef"/>
+  <rect x="140" y="160" width="320" height="120" rx="20" fill="#6B4F4F"/>
+  <text x="300" y="225" font-family="Roboto, Arial" font-size="32" text-anchor="middle" fill="#fff">Steak</text>
+</svg>
+
